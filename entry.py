@@ -23,3 +23,5 @@ tombol_cetak = tk.Button(master, text="Cetak", command=cetak_output)
 tombol_cetak.grid(row=3, columnspan=2)
 
 master.mainloop()
+
+#kalau sudah pakai grid tidak usah menggunakan packaa
